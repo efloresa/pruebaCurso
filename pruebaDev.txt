@@ -1,3 +1,7 @@
 estoy desde la rama dev
 segunda linea dev
+<<<<<<< HEAD
 tercer linea dev
+=======
+tercera linea dev
+>>>>>>> dev
